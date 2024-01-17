@@ -2,6 +2,8 @@
 
 I made a couple of utility apps for my ROG Ally that I want to share.
 
+[Download](https://github.com/leooon12/RogAllyUtilities/releases/latest)
+
 ## PowerControl
 
 Enforces specified Windows Power Mode even when switching Armory Crate Operating Modes.
