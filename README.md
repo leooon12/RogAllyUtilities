@@ -6,7 +6,7 @@ I made a couple of utility apps for my ROG Ally that I want to share.
 
 ## PowerControl
 
-Enforces specified Windows Power Mode even when switching Armory Crate Operating Modes.
+Enforces a specified Windows Power Mode even when switching Armory Crate Operating Modes.
 
 After the first launch, a Configuration.json file will appear next to the executable file with two values:
 - CurrentPowerMode - last chosen Power Mode
@@ -18,7 +18,7 @@ As for me, I personally always use Balanced Power Mode.
 
 ## GyroRestart
 
-I found out that gyro does not work after waking up from hibernate. To fix this, you have to disable/enable Bosch Accelerometer. That’s exactly what GyroRestart does.
+I found out that the gyro does not work after waking up from hibernate. To fix this, you have to disable/enable the Bosch Accelerometer. That’s exactly what GyroRestart does.
 
 You need to run GyroRestart with Administrator Privileges as they are required for disabling / enabling devices.
 
